@@ -1,0 +1,7 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/ZeroCore-Dev/proton-core
+
+[submodule "ext"]
+	path = ext
+	url = https://github.com/ZeroCore-Dev/proton-ext
