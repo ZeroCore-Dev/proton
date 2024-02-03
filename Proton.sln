@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtonCore", "core\ProtonCore\ProtonCore.csproj", "{ABFD95A9-173C-4FC4-836E-4D8BFECBEC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtonExtensionManager", "ext\ProtonExtensionManager.csproj", "{62321466-33C8-407E-B155-ED5F9CDBA0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFD95A9-173C-4FC4-836E-4D8BFECBEC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFD95A9-173C-4FC4-836E-4D8BFECBEC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFD95A9-173C-4FC4-836E-4D8BFECBEC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFD95A9-173C-4FC4-836E-4D8BFECBEC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62321466-33C8-407E-B155-ED5F9CDBA0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62321466-33C8-407E-B155-ED5F9CDBA0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62321466-33C8-407E-B155-ED5F9CDBA0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62321466-33C8-407E-B155-ED5F9CDBA0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
